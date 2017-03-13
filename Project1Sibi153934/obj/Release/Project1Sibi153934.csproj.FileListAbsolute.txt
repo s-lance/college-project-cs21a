@@ -1,0 +1,5 @@
+C:\Users\Jullian\documents\visual studio 2015\Projects\Project1Sibi153934Solution\Project1Sibi153934\bin\Release\Project1Sibi153934.exe.config
+C:\Users\Jullian\documents\visual studio 2015\Projects\Project1Sibi153934Solution\Project1Sibi153934\bin\Release\Project1Sibi153934.exe
+C:\Users\Jullian\documents\visual studio 2015\Projects\Project1Sibi153934Solution\Project1Sibi153934\bin\Release\Project1Sibi153934.pdb
+C:\Users\Jullian\documents\visual studio 2015\Projects\Project1Sibi153934Solution\Project1Sibi153934\obj\Release\Project1Sibi153934.exe
+C:\Users\Jullian\documents\visual studio 2015\Projects\Project1Sibi153934Solution\Project1Sibi153934\obj\Release\Project1Sibi153934.pdb

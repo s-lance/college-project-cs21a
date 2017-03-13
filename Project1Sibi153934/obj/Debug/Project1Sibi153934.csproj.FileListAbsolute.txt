@@ -1,0 +1,6 @@
+c:\users\jullian\documents\visual studio 2015\Projects\Project1Sibi153934Solution\Project1Sibi153934\bin\Debug\Project1Sibi153934.exe.config
+c:\users\jullian\documents\visual studio 2015\Projects\Project1Sibi153934Solution\Project1Sibi153934\bin\Debug\Project1Sibi153934.exe
+c:\users\jullian\documents\visual studio 2015\Projects\Project1Sibi153934Solution\Project1Sibi153934\bin\Debug\Project1Sibi153934.pdb
+c:\users\jullian\documents\visual studio 2015\Projects\Project1Sibi153934Solution\Project1Sibi153934\obj\Debug\Project1Sibi153934.csprojResolveAssemblyReference.cache
+c:\users\jullian\documents\visual studio 2015\Projects\Project1Sibi153934Solution\Project1Sibi153934\obj\Debug\Project1Sibi153934.exe
+c:\users\jullian\documents\visual studio 2015\Projects\Project1Sibi153934Solution\Project1Sibi153934\obj\Debug\Project1Sibi153934.pdb
